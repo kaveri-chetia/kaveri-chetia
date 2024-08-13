@@ -15,13 +15,9 @@ Data Science/ML: TBA<br>
 Other Tools: Excel<br>
 ## 🌟 Projects<br>
 
-
-👉  🦈<br>
-Here are some of my favorite projects:<br>
-
-👉 🗑️<br>
-👉  📱<br>
-👉 🧪<br>
+👉 [https://github.com/kaveri-chetia/ironhack_ml_project]🗑️<br>
+👉 [https://github.com/kaveri-chetia/vanguard-ab-test]📱<br>
+👉 [https://github.com/kaveri-chetia/Mini_project_sql]🧪<br>
 
 ## 📫 Contact Me<br>
 Email<br>
