@@ -15,7 +15,7 @@ Data Science/ML: TBA<br>
 Other Tools: Excel<br>
 ## 🌟 Projects<br>
 👉 [https://github.com/kaveri-chetia/Uber_project]<br>
-👉 [https://github.com/kaveri-chetia/ironhack_ml_project]🗑️<br>
-👉 [https://github.com/kaveri-chetia/vanguard-ab-test]📱<br>
-👉 [https://github.com/kaveri-chetia/Mini_project_sql]🧪<br>
+👉 [https://github.com/kaveri-chetia/ironhack_ml_project]<br>
+👉 [https://github.com/kaveri-chetia/vanguard-ab-test]<br>
+👉 [https://github.com/kaveri-chetia/Mini_project_sql]<br>
 
